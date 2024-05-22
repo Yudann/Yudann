@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="image/web-icon.ico" type="image/gif" sizes="16x16">
+        <title>Yuyu-Soundz</title>
+        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <!-- Stylesheet AOS -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" />
+        <!-- Feather Icons -->
+        <script src="https://unpkg.com/feather-icons"></script>
+    </head>
+    <body>
+        
+        <section id="Home">
+            <nav>
+                <div data-aos="fade-down" data-aos-delay="500">
+                    <img src="image/logo-nav.png">
+                </div>
+                
+                <ul>
+                    <li><a href="#Home" data-aos="fade-right" data-aos-delay="750" >Home</a></li>
+                    <li><a href="#About" data-aos="fade-right" data-aos-delay="1000">About</a></li>
+                    <div class="dropdown">
+                        <button class="dropbtn" data-aos="fade-in" data-aos-delay="1250">Products</button>
+                        <div class="dropdown-content">
+                          <a href="#">Apple</a>
+                          <a href="#">JBL</a>
+                          <a href="#">Xiaomi</a>
+                          <a href="#">Robot</a>
+                          <a href="#">Oppo</a>
+                          <a href="#">+ more</a>
+                        </div>
+                      </div>
+                    <div class="dropdown">
+                        <button class="dropbtn" data-aos="fade-in" data-aos-delay="1500">Store</button>
+                        <div class="dropdown-content">
+                          <a href="#">Jakarta</a>
+                          <a href="#">Tangerang</a>
+                          <a href="#">Depok</a>
+                          <a href="#">Bogor</a>
+                          <a href="#">Bandung</a>
+                        </div>
+                      </div>
+                    <li><a href="#Contact" data-aos="fade-right" data-aos-delay="1750">Contact</a></li>
+
+                </ul>
+                
+                <div class="icon" data-aos="fade-down" data-aos-delay="2000">
+                    <!-- <button class="signup" type="button">Sign Up</button>  -->
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <i class="fa-solid fa-heart"></i>
+                    <i class="fa-solid fa-cart-shopping"></i>
+                    <a href="#" id="hamburger-menu"><i data-feather="menu"></i></a>
+                </div>
+                
+            </nav>
+            
+            <div class="main" >
+                
+                <div class="main_image" data-aos="fade-down" data-aos-delay="2250">
+                    <img src="image/headset.jpeg">
+                </div>
+            <div class="men_text" data-aos="fade-down" data-aos-delay="2500">
+                <h1>Elevate your music with<br>Premium headphones</h1>
+            </div>
+            
+            
+            
+        </div>
+        
+        <p data-aos="fade-down" data-aos-delay="2500">
+            Discover our selection of high-quality headphones
+            designed for music lovers and audiophiles. Enjoy crystal-clear
+            sound and argonomic design with over-ear, on-ear, or in-ear option. 
+            Shop now and upgrade your listening experience.
+        </p>
+        
+        <div class="main_btn" data-aos="fade-down" data-aos-delay="2750">
+            <button class="login" type="button">Get Started</button>
+            <button class="signup" type="button">Show now</button>
+            <!-- <a href="index.html">Order Now</a>
+                <i class="fa-solid fa-angle-right"></i>
+                <a href="#order" class="neon-button">Order now</a> -->
+                
+            </div>
+            
+            <div class="price-box" data-aos="fade-down" data-aos-delay="3000">
+                <h2>Up to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Up to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Up to</h2>
+                <h1>39 K &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;189 k &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6 M</h1>
+                <h3>Customers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Members&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Views</h3>
+              </div>
+            
+        </section>  
+
+        <!-- Tambahkan script AOS -->
+        <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+        <script>
+          AOS.init({
+            // Global settings:
+            disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+            startEvent: 'DOMContentLoaded', // name of the event dispatched on the document, that AOS should initialize on
+            initClassName: 'aos-init', // class applied after initialization
+            animatedClassName: 'aos-animate', // class applied on animation
+            useClassNames: false, // if true, will add content of `data-aos` as classes on scroll
+            disableMutationObserver: false, // disables automatic mutations' detections (advanced)
+            debounceDelay: 50, // the delay on debounce used while resizing window (advanced)
+            throttleDelay: 99, // the delay on throttle used while scrolling the page (advanced)
+            
+
+            // Settings that can be overridden on per-element basis, by `data-aos-*` attributes:
+            offset: 120, // offset (in px) from the original trigger point
+            delay: 0, // values from 0 to 3000, with step 50ms
+            duration: 400, // values from 0 to 3000, with step 50ms
+            easing: 'ease', // default easing for AOS animations
+            once: false, // whether animation should happen only once - while scrolling down
+            mirror: false, // whether elements should animate out while scrolling past them
+            anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
+
+            });;
+        </script>
+
+        <!-- My Javascript -->
+        <script src="script.js"></script>
+</body>
+</html>
+
+<!-- https://269187ff-2feb-4164-9b27-d2aeb6e64b76-00-668pgvd7cuo1.janeway.replit.dev/ -->

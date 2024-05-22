@@ -1,0 +1,440 @@
+:root {
+  --clr-neon: #A94438;
+  --clr-bg: rgb(82, 44, 0);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+    overflow: hidden;
+}
+
+section{
+    width: 100%;
+    height: 100vh;
+}
+
+body {
+    background-color: #000;
+}
+
+section nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    right: 0;
+    left: 0;
+    background: #000;
+    z-index: 1000;
+}
+
+section nav .logo img{
+    width: 20px;
+    cursor: pointer;
+    margin: 7px 0;
+}
+
+section nav ul{
+    list-style: none;
+}
+
+section nav ul li{
+    display: inline-block;
+    margin: 0 15px;
+}
+
+section nav ul li a{
+    text-decoration: none;
+    color: #49C8F2;
+    font-weight: 500;
+    font-size: 17px;
+    transition: 0.1s;
+}
+
+section nav ul li a::after{
+    content: '';
+    width: 0;
+    height: 2px;
+    background: #ffffff;
+    display: block;
+    transition: 0.2s linear;
+}
+
+section nav ul li a:hover::after{
+    width: 100%;
+}
+
+section nav ul li a:hover{
+    color: #ffffff;
+}
+
+section nav .icon {
+    margin: 0 30px;
+}
+section nav .icon .signup{
+    margin-left: 30px;
+    background: #000;
+    border-radius: 8px ;
+    border-width: 0px;
+    border-color: #A94438;
+    width: 100px;
+    cursor: pointer;
+    padding: 10px 20px;
+    transition: all .3s;
+    color: white;
+}
+
+section nav .icon .signup:hover{
+    letter-spacing: 0.1em;
+    box-shadow: rgba(1, 159, 251, 0.501) 0px 8px 24px, rgba(1, 159, 251, 0.3) 0px 16px 56px, rgba(1, 159, 251, 0.3) 0px 24px 80px;
+}
+
+section nav .icon i{
+    font-size: 18px;
+    color: #49C8F2;
+    margin: 0 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+section nav .icon i:hover{
+    color: #ffffff;
+}
+
+#hamburger-menu {
+  display: none;
+}
+
+
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: #000;
+  color: #49C8F2;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover {
+    color: #ffffff;
+}
+
+.dropbtn::after{
+    content: '';
+    width: 0;
+    height: 2px;
+    background: #ffffff;
+    display: block;
+    transition: 0.2s linear;
+}
+
+.dropbtn:hover::after{
+    width: 100%;
+}
+
+.dropbtn:hover{
+    color: #ffffff;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  transition: 0.1s;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: white;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #000;
+    color: #49C8F2;
+}
+
+.dropdown::after .dropbtn {transition: 0.2s linear;}
+
+section .main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    top: 130px;
+}
+
+section .main .men_text h1{
+    font-size: 40px;
+    position: relative;
+    color: white;
+    bottom: 250px;
+    left: -50px;
+}
+
+section .main .men_text h1 span{
+    margin-left: 15px;
+    color: purple;
+    font-family: mv boli;
+    line-height: 22px;
+    font-size: 70px;
+}
+
+section .main .main_image img{
+    width: 950px;
+    position: relative;
+    margin: auto 0;
+    right: 100px;
+    bottom: 20px;
+    animation: floatImage 4s ease-in-out infinite;
+    animation-delay: 3s; 
+}
+
+/* ANIMASI IMG BERGERAK TANPA HOVER */
+@keyframes floatImage{
+    0%{
+      transform: translateY(0);
+    }
+    50%{
+      transform: translateY(-22px);
+    }
+    100%{
+      transform: translateY(0);
+    }
+  }
+  
+
+section .main .main_image img:hover {
+    transform: scale(1.1);
+}
+
+section .main_btn .signup{
+    margin-left: 30px;
+    background: #49C8F2;
+    border-radius: 8px ;
+    border-width: 0px;
+    border-color: #49C8F2;
+    width: 170px;
+    cursor: pointer;
+    padding: 10px 20px;
+    transition: all .3s;
+    color: #000;
+    font-size: 15px;
+}
+
+section .main_btn .signup:hover{
+    letter-spacing: 0.1em;
+    box-shadow: rgba(1, 159, 251, 0.501) 0px 8px 24px, rgba(1, 159, 251, 0.3) 0px 16px 56px, rgba(1, 159, 251, 0.3) 0px 24px 80px;
+}
+section .main_btn .login {
+    background: black;
+    border-radius: 8px ;
+    border-width: 2px;
+    border-color: #49C8F2;
+    width: 170px;
+    cursor: pointer;
+    padding: 10px 20px;
+    transition: all .3s;
+    color: #49C8F2;
+    font-size: 15px;
+}
+
+section .main_btn .login:hover{
+    letter-spacing: 0.1em;
+    box-shadow:  rgba(1, 159, 251, 0.501) 0px 8px 24px, rgba(1, 159, 251, 0.3) 0px 16px 56px, rgba(1, 159, 251, 0.3) 0px 24px 80px;
+
+}
+
+section p{
+    width: 400px;
+    color: white;
+    text-align: justify;
+    position: relative;
+    left: 1000px;
+    bottom: 350px;
+    line-height: 22px;
+}
+
+section .main_btn{
+    /* background: antiquewhite; */
+    position: relative;
+    display: flex;
+    border-radius: 10px;
+    left: 1000px;
+    bottom: 320px;
+    width: 750px;
+    cursor: pointer;
+    padding: 12px 25px;
+    transition: all .3s;
+    color: white;
+    border-width: 2px;
+    border-color: #49C8F2;
+}
+
+/* section .main_btn:hover {
+    box-shadow: 0 0 35px #A94438;
+    letter-spacing: 0.01em;
+} */
+section .main_btn a{
+    color: #A94438;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+section .main_btn i{
+    color: #A94438;
+    transition: 0.3s;
+}
+
+section .main_btn:hover i{
+    transform: translateX(7px);
+}
+
+
+.price-box {
+  position: relative;
+  display: flex;
+  width: 400px;
+  height: 150px;
+  background-color: black;
+  border: 2px solid #49C8F2;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  bottom: 300px;
+  left: 1000px;
+}
+.price-box {
+  position: relative;
+  display: flex;
+  width: 400px;
+  height: 130px;
+  background-color: black;
+  border: 1px solid #49C8F2;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  bottom: 300px;
+  left: 1000px;
+}
+.price-box h1 {
+  font-family: Garamond;
+  color: white;
+  font-size: 35px;
+  margin-bottom: 10px;
+}
+
+.price-box h2{
+  color: white;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.price-box h3{
+  color: white;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+
+/* Media Queries*
+/* Laptop*
+@media (max-width: 1366px) {
+  html {
+      font-size: 75%;
+  }
+}
+/* Tablet*\
+@media (max-width: 1024px) {
+  html{
+      font-size: 62.5%;
+  }
+
+  #hamburger-menu {
+      display: block;
+  }
+
+  section .main_btn {
+      width: 100%;
+      left: 0;
+      bottom: 0;
+      padding: 12px;
+      text-align: center;
+  }
+
+  .price-box {
+      width: 100%;
+      left: 0;
+      bottom: 0;
+  }
+}
+
+/* Mobile*\
+@media (max-width: 768px) {
+  html{
+      font-size: 50%;
+  }
+
+  section .main .men_text h1 {
+      font-size: 2rem;
+      bottom: 100px;
+  }
+
+  section .main .main_image img{
+      width: 100%;
+      height: auto;
+      bottom: 0;
+  }
+
+  .price-box {
+      width: 100%;
+      left: 0;
+      bottom: 0;
+  }
+}
+
+/* Small Mobile*\
+@media (max-width: 450px) {
+  html{
+      font-size: 40%;
+  }
+}
