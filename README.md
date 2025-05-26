@@ -37,26 +37,13 @@
 </p>
 
 ---
-
-## 💻 Code I Live By
-export default function HeroSection() {
-  return (
-    <section className="bg-black text-white p-10 rounded-xl shadow-xl">
-      <h1 className="text-4xl font-bold">Hi, I'm Yudan 👋</h1>
-      <p className="mt-4 text-lg">
-        I build interfaces that don’t just work — they <em>wow</em>.
-      </p>
-    </section>
-  );
-}
-
 📬 Reach Me
 📫 Email: yudannnnn80@gmail.com
 
-🌐 Portfolio: yudan-portfolio.vercel.app
+🌐 Portfolio: https://yudan-portfolio.vercel.app/
 
-📷 Instagram: @yudanns_
+📷 Instagram: https://www.instagram.com/yudanns_
 
-💼 LinkedIn: @yudanns
+💼 LinkedIn: https://id.linkedin.com/in/yudanns
 
-📹 YouTube (via email): yudannnnn80@gmail.com
+📹 YouTube : http://youtube.com/@yudanns
