@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Yudan — Frontend Artisan
 
-<!--
-**Yudann/Yudann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the garage where ideas become **interactive** 🧠 ➡️ 💻
 
-Here are some ideas to get you started:
+I’m a frontend-first web developer who's obsessed with clean UIs, snappy interactions, and reusable everything™.  
+Currently building modern web apps with **Next.js**, **Tailwind**, and a solid sprinkle of **TypeScript** and **Express** for fullstack greatness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Kalau bisa dibikin reusable, kenapa harus copy paste?" – Yudan, 2025
+
+---
+
+## 🛠️ My Stack Toolbox
+
+### 🎨 Frontend (My natural habitat):
+const frontendStack = {
+  framework: "Next.js (App Router)",
+  styling: "Tailwind CSS + Custom Design System",
+  language: ["TypeScript", "JavaScript"],
+  stateManagement: ["Redux Toolkit", "Redux Persist"],
+  extras: ["Headless UI", "React Icons", "Ag-Grid"]
+}
