@@ -4,11 +4,13 @@
 
 # 👋 Hi, I'm Yudan — Frontend Dev at Heart
 
-🚀 I build sleek and scalable web apps using **Next.js**, **Tailwind**, and more.<br />
-🎯 Focused on reusable components, clean architecture, and smooth user experience.
+🚀 I build sleek and scalable web apps using **Next.js**, **Tailwind CSS**, and more.<br />
+🎯 Passionate about clean architecture, reusability, and smooth user experiences.
 
-[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://yudan-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/yudanns)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yudanns_)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](mailto:yudannnnn80@gmail.com)
 
 </div>
 
@@ -36,19 +38,7 @@
 
 ---
 
-## 🛠️ Projects I'm Working On
-
-| Project        | Description |
-|----------------|-------------|
-| 🛍 **RIORS**        | E-commerce web app inspired by Nike, built with Next.js + Tailwind + Redux |
-| 🍔 **Foody App**    | Self-service food ordering app for F&B industry |
-| 📊 **Dashboard UI** | Admin dashboard with filters, sales analytics, and role-based access |
-
----
-
 ## 💻 Code I Live By
-
-```tsx
 export default function HeroSection() {
   return (
     <section className="bg-black text-white p-10 rounded-xl shadow-xl">
@@ -59,3 +49,14 @@ export default function HeroSection() {
     </section>
   );
 }
+
+📬 Reach Me
+📫 Email: yudannnnn80@gmail.com
+
+🌐 Portfolio: yudan-portfolio.vercel.app
+
+📷 Instagram: @yudanns_
+
+💼 LinkedIn: @yudanns
+
+📹 YouTube (via email): yudannnnn80@gmail.com
