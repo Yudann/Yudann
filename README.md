@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Yudan — Frontend Dev at Heart
+# Hi, I'm Yudan — Friendly Programmer
 
 🚀 I build sleek and scalable web apps using **Next.js**, **Tailwind CSS**, and more.<br />
 🎯 Passionate about clean architecture, reusability, and smooth user experiences.
