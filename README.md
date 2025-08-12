@@ -2,8 +2,8 @@
 
 # Hi, I'm Yudan — Friendly Programmer
 
-🚀 I build sleek and scalable web apps using **Next.js**, **Tailwind CSS**, and more.<br />
-🎯 Passionate about clean architecture, reusability, and smooth user experiences.
+I build sleek and scalable web apps using **Next.js**, **Tailwind CSS**, and more.<br />
+Passionate about clean architecture, reusability, and smooth user experiences.
 
 [![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://yudan-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/yudanns)
@@ -18,16 +18,15 @@
 
 <div align="center">
   
-[![Yudan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudanns&show_icons=true&theme=radical)](https://github.com/yudanns)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudanns&layout=compact&theme=radical)](https://github.com/yudanns)
+[![Yudan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yudann&show_icons=true&theme=radical)](https://github.com/yudanns)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudann&layout=compact&theme=radical)](https://github.com/yudanns)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yudanns&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🧠 Tech Stack I Use
+## Tech Stack I Use
 
 ### 🌐 Frontend
 <p>
@@ -49,11 +48,11 @@
 
 ---
 
-## 📫 Reach Me
+## Reach Me
 
 📫 Email: yudannnnn80@gmail.com
 
-🌐 Portfolio: https://yudan-portfolio.vercel.app/
+🌐 Portfolio: https://bartolomeus.vercel.app/
 
 📷 Instagram: https://www.instagram.com/yudanns_
 
