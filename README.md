@@ -1,5 +1,3 @@
-<!-- README.md -->
-
 <div align="center">
 
 # Hi, I'm Yudan — Friendly Programmer
@@ -11,6 +9,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/yudanns)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yudanns_)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](mailto:yudannnnn80@gmail.com)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![Yudan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudanns&show_icons=true&theme=radical)](https://github.com/yudanns)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudanns&layout=compact&theme=radical)](https://github.com/yudanns)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yudanns&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
@@ -37,7 +48,8 @@
 </p>
 
 ---
-Reach Me
+
+## 📫 Reach Me
 
 📫 Email: yudannnnn80@gmail.com
 
