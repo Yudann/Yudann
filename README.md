@@ -18,8 +18,8 @@ Passionate about clean architecture, reusability, and smooth user experiences.
 
 <div align="center">
   
-[![Yudan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yudann&show_icons=true&theme=radical)](https://github.com/yudanns)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudann&layout=compact&theme=radical)](https://github.com/yudanns)
+[![Yudan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yudann&show_icons=true&theme=radical)](https://github.com/yudann)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudann&layout=compact&theme=radical)](https://github.com/yudann)
 
 
 </div>
