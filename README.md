@@ -1,92 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Hi,%20I'm%20Yudan%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Friendly%20Programmer%20%7C%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+sleek+%26+scalable+web+apps;Next.js+%2B+Tailwind+CSS+enthusiast;Clean+architecture+%7C+Reusable+code;Always+shipping+something+new+🚀" alt="Typing SVG" />
-</a>
-
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://yudan-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/yudanns)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yudanns_)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yudannnnn80@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://youtube.com/@yudanns)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1000&color=10D777&center=true&vCenter=true&random=false&width=560&height=60&lines=Yudan;Frontend+Developer" alt="Yudan" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yudann&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://img.shields.io/badge/-Next.js-0a0a0c?style=flat-square&logo=next.js&logoColor=10D777&labelColor=0a0a0c" height="26"/> <img src="https://img.shields.io/badge/-Tailwind_CSS-0a0a0c?style=flat-square&logo=tailwind-css&logoColor=10D777&labelColor=0a0a0c" height="26"/> <img src="https://img.shields.io/badge/-TypeScript-0a0a0c?style=flat-square&logo=typescript&logoColor=10D777&labelColor=0a0a0c" height="26"/>
+
+<sub>Build, ship, refine.</sub>
+
+<br/><br/>
+
+**Portfolio** · **LinkedIn** · **Instagram** · **YouTube**
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-10D777?style=flat-square&logoColor=white)](https://yudan-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0c?style=flat-square&logoColor=white)](https://id.linkedin.com/in/yudanns)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0c?style=flat-square&logoColor=white)](https://www.instagram.com/yudanns_)
+[![Email](https://img.shields.io/badge/Email-0a0a0c?style=flat-square&logoColor=white)](mailto:yudannnnn80@gmail.com)
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:0a0a0c&height=2&width=800" />
+</div>
+
+<br/>
+
+## Frontend developer yang fokus di detail.
+
+Ngebangun web app yang cepat, rapi secara arsitektur, dan enak dipakai. Next.js jadi tools utama, Tailwind buat sistem visualnya, TypeScript biar tetap aman pas project makin besar.
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Interface
+
+Nyusun UI dari design system, bukan asal styling. Konsisten dari spacing sampai warna.
+
+</td>
+<td width="33%" valign="top">
+
+### Architecture
+
+Struktur kode yang reusable dan gampang di-maintain, gak numpuk teknis debt.
+
+</td>
+<td width="33%" valign="top">
+
+### Performance
+
+Ngejar Core Web Vitals, loading cepat, interaksi yang berasa ringan.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:0a0a0c&height=2&width=800" />
+</div>
+
+<br/>
+
+## Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frontend**
+
+`Next.js` `TypeScript` `Tailwind CSS` `JavaScript` `Redux`
+
+</td>
+<td valign="top" width="50%">
+
+**Backend & Tools**
+
+`Node.js` `Express.js` `MySQL` `Prisma` `Git`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:0a0a0c&height=2&width=800" />
+</div>
+
+<br/>
+
+## Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yudann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=6366F1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yudann&show_icons=true&hide_border=true&bg_color=0a0a0c&title_color=10D777&icon_color=10D777&text_color=e6e6e6&hide_rank=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudann&layout=compact&hide_border=true&bg_color=0a0a0c&title_color=10D777&text_color=e6e6e6&langs_count=6" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yudann&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=6366F1" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yudann&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yudann&hide_border=true&background=0a0a0c&ring=10D777&fire=10D777&currStreakLabel=10D777&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=6b6b6b" />
 
 </div>
 
 <br/>
-
-## 🐍 Contribution Snake
 
 <div align="center">
-
-<!-- Generated via github-contribution-grid-snake action, lihat catatan setup di bawah -->
-<img src="https://raw.githubusercontent.com/Yudann/Yudann/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
+<img src="https://raw.githubusercontent.com/Yudann/Yudann/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <br/>
 
-## 🛠 Tech Stack
-
-### 🌐 Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:0a0a0c&height=2&width=800" />
+</div>
 
 <br/>
 
-## 📫 Reach Me
+## Contact
 
 <div align="center">
 
 | | |
-|---|---|
-| 📧 Email | [yudannnnn80@gmail.com](mailto:yudannnnn80@gmail.com) |
-| 🌐 Portfolio | [yudan-portfolio.vercel.app](https://yudan-portfolio.vercel.app/) |
-| 💼 LinkedIn | [id.linkedin.com/in/yudanns](https://id.linkedin.com/in/yudanns) |
-| 📷 Instagram | [@yudanns_](https://www.instagram.com/yudanns_) |
-| 📹 YouTube | [@yudanns](http://youtube.com/@yudanns) |
+|:--|:--|
+| Email | yudannnnn80@gmail.com |
+| Portfolio | yudan-portfolio.vercel.app |
+| LinkedIn | id.linkedin.com/in/yudanns |
+| Instagram | @yudanns_ |
+| YouTube | @yudanns |
 
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%"/>
+<sub>© 2026 Yudan — built with Next.js.</sub>
 </div>
