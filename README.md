@@ -1,21 +1,20 @@
 <div align="center">
-
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1000&color=10D777&center=true&vCenter=true&random=false&width=560&height=60&lines=Yudan;Frontend+Developer" alt="Yudan" />
+<img src="https://github.com/Yudann.png" width="96" style="border-radius:50%" />
 
-<img src="https://img.shields.io/badge/-Next.js-0a0a0c?style=flat-square&logo=next.js&logoColor=10D777&labelColor=0a0a0c" height="26"/> <img src="https://img.shields.io/badge/-Tailwind_CSS-0a0a0c?style=flat-square&logo=tailwind-css&logoColor=10D777&labelColor=0a0a0c" height="26"/> <img src="https://img.shields.io/badge/-TypeScript-0a0a0c?style=flat-square&logo=typescript&logoColor=10D777&labelColor=0a0a0c" height="26"/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1000&color=10D777&center=true&vCenter=true&random=false&width=560&height=60&lines=Yudan;Frontend+Developer" alt="Yudan" />
 
 <sub>Build, ship, refine.</sub>
 
 <br/><br/>
 
-**Portfolio** · **LinkedIn** · **Instagram** · **YouTube**
-&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-10D777?style=flat-square&logoColor=white)](https://yudan-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0c?style=flat-square&logoColor=white)](https://id.linkedin.com/in/yudanns)
-[![Instagram](https://img.shields.io/badge/Instagram-0a0a0c?style=flat-square&logoColor=white)](https://www.instagram.com/yudanns_)
-[![Email](https://img.shields.io/badge/Email-0a0a0c?style=flat-square&logoColor=white)](mailto:yudannnnn80@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logoColor=white)](https://id.linkedin.com/in/yudanns)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=flat-square&logoColor=white)](https://www.instagram.com/yudanns_)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logoColor=white)](mailto:yudannnnn80@gmail.com)
 
 </div>
 
@@ -27,11 +26,57 @@
 
 <br/>
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ## Frontend developer yang fokus di detail.
 
 Ngebangun web app yang cepat, rapi secara arsitektur, dan enak dipakai. Next.js jadi tools utama, Tailwind buat sistem visualnya, TypeScript biar tetap aman pas project makin besar.
 
+Sekarang lagi ngulik pattern UI yang reusable dan nyari cara bikin interaksi kerasa lebih halus tanpa ngorbanin performa.
+
 <br/>
+
+<img src="https://img.shields.io/badge/3+_Years-0a0a0c?style=flat-square&labelColor=0a0a0c&color=10D777" height="24"/>&nbsp;<sub>ngoding frontend</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/20+_Projects-0a0a0c?style=flat-square&labelColor=0a0a0c&color=10D777" height="24"/>&nbsp;<sub>udah di-ship</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Open_to_Work-0a0a0c?style=flat-square&labelColor=0a0a0c&color=10D777" height="24"/>&nbsp;<sub>freelance / full-time</sub>
+
+</td>
+<td width="45%" valign="top">
+
+```bash
+yudan@dev ~ % whoami
+
+> Frontend Developer
+> Based in Indonesia
+> Stack: Next.js / Tailwind / TS
+
+yudan@dev ~ % focus --list
+
+[✓] Clean architecture
+[✓] Reusable components
+[✓] Smooth interactions
+[ ] Sleep schedule
+
+yudan@dev ~ % _
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:0a0a0c&height=2&width=800" />
+</div>
+
+<br/>
+
+## What I do
 
 <table>
 <tr>
@@ -107,12 +152,10 @@ Ngejar Core Web Vitals, loading cepat, interaksi yang berasa ringan.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yudann&hide_border=true&background=0a0a0c&ring=10D777&fire=10D777&currStreakLabel=10D777&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=6b6b6b" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yudann&bg_color=0a0a0c&color=e6e6e6&line=10D777&point=10D777&area=true&area_color=10D777&hide_border=true" width="100%"/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Yudann/Yudann/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <br/>
