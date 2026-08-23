@@ -1,13 +1,6 @@
 <div align="center">
-<br/>
 
-<img src="https://github.com/Yudann.png" width="96" style="border-radius:50%" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1000&color=10D777&center=true&vCenter=true&random=false&width=560&height=60&lines=Yudan;Frontend+Developer" alt="Yudan" />
-
-<sub>Build, ship, refine.</sub>
+<img src="./assets/header.svg" width="100%" />
 
 <br/><br/>
 
