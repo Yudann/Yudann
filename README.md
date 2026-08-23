@@ -1,6 +1,42 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" />
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#e6e6e6"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="260" rx="14" fill="#0a0a0c"/>
+  <rect width="1000" height="260" rx="14" fill="url(#dots)" opacity="0.05"/>
+
+  <!-- status indicator -->
+  <circle cx="52" cy="42" r="4" fill="#10D777">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="66" y="47" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#7a7a7a">AVAILABLE FOR WORK</text>
+
+  <!-- top-right marker -->
+  <text x="948" y="47" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#3a3a3a">ID / FRONTEND</text>
+
+  <!-- wordmark -->
+  <text x="500" y="148" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="80">
+    <tspan fill="#f2f2f2">yudan</tspan><tspan fill="#10D777">.</tspan>
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="642" y="98" width="7" height="56" fill="#10D777">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- subtitle -->
+  <text x="500" y="193" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" letter-spacing="7" fill="#10D777">FRONTEND DEVELOPER</text>
+
+  <!-- sub-subtitle -->
+  <text x="500" y="221" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" fill="#6b6b6b">Next.js · Tailwind CSS · TypeScript</text>
+
+  <line x1="455" y1="235" x2="545" y2="235" stroke="#1c1c1c" stroke-width="1"/>
+</svg>
 
 <br/><br/>
 
