@@ -8,13 +8,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:0a0a0c&height=2&width=800" />
-</div>
-
-<br/>
 
 ## Activity
 
@@ -29,7 +22,7 @@
   height="165"
 />
 
-<br/><br/>
+
 
 <img
   src="https://streak-stats.demolab.com/?user=Yudann&hide_border=true&background=0a0a0c&ring=10D777&fire=10D777&currStreakLabel=10D777&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=6b6b6b"
@@ -168,7 +161,7 @@ Core Web Vitals, loading, rendering, dan interaction tetap jadi perhatian.
 
 ## Stack
 
-<table>
+<table align="center">
 <tr>
 
 <td valign="top" width="50%">
@@ -204,14 +197,14 @@ Core Web Vitals, loading, rendering, dan interaction tetap jadi perhatian.
 
 ## Somewhere on the internet
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
 ### Work
 
 **Portfolio**  
-[yudan-portfolio.vercel.app](https://yudan-portfolio.vercel.app/)
+[barto-roan.vercel.app](https://barto-roan.vercel.app/)
 
 **GitHub**  
 [@Yudann](https://github.com/Yudann)
