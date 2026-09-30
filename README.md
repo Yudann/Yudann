@@ -55,7 +55,7 @@ Gua **Yudan**, frontend developer dari Indonesia.
 
 Gua suka bikin web yang **clean, cepat, dan enak dipakai**. Sehari-hari paling banyak main di **Next.js, TypeScript, dan Tailwind CSS**.
 
-Belakangan ini lagi banyak eksplor soal reusable UI pattern, component architecture, micro-interactions, dan gimana caranya bikin experience yang smooth tanpa bikin performance berantakan.
+Belakangan ini lagi banyak eksplor soal reusable UI pattern, component architecture, micro-interactions, AI orches dan gimana caranya bikin experience yang smooth tanpa bikin performance berantakan.
 
 <br/>
 
